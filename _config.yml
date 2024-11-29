@@ -1,0 +1,9 @@
+title: "Jaeyoun Choi"            # Your site title
+description: "My Research Portfolio"
+baseurl: ""                    # Leave blank for root
+url: "https://jy-him4u.github.io"  # Your GitHub Pages URL
+author:
+  name: "Jaeyoun Choi"
+  email: "cjy0051@mit.edu"
+markdown: kramdown
+theme: minima                  # Or replace with the theme in your project
